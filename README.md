@@ -18,8 +18,17 @@ My approach centered on **Performance-First Motion**. Instead of using heavy vid
 - **Deployment**: Vercel
 
 ## ⚙️ Local Setup
-1. **Clone the repository:**
+
+1. **Install the dependencies:**
    ```bash
-   git clone [https://github.com/your-username/xai-project.git](https://github.com/your-username/xai-project.git)
+   npm install
+
+2. **The development server:**
+   ```bash
+   npm run dev
+
+
+
+
 
    
